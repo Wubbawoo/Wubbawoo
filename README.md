@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tyler
 
 ### Sixth Form Student | ICT • Business • Technology
 
