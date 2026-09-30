@@ -1,18 +1,50 @@
-<h1 align="center">Hey, I'm Wubbawoo 👋</h1>
+# Hi, I'm [Your Name] 👋
 
-<p align="center">Learning to code by building games in Roblox Studio.</p>
+### Sixth Form Student | ICT • Business • Technology
+
+I'm a sixth form student at Overton Grange School studying **BTEC ICT, A Level Business and BTEC Criminology**.
+
+I'm building my technical skills through personal projects and coursework, with a particular interest in **IT, software, web development and cybersecurity**.
+
+## About Me
+
+- 🎓 Studying BTEC ICT, A Level Business and BTEC Criminology
+- 💻 Developing practical IT and programming skills
+- 📚 Building projects to strengthen my technical knowledge
+- 🚀 Interested in gaining experience in the technology industry
+
+## Technical Interests
+
+- Information Technology
+- Web Development
+- Programming
+- Cybersecurity
+- Databases
+- IT Support
+- Business Technology
+
+## Projects
+
+I'm currently building my portfolio and will be adding projects as I develop my skills.
+
+| Project | Description |
+|---|---|
+| Portfolio Website | Personal website showcasing my skills and projects |
+| Business Technology Project | Exploring how technology can support a small business |
+| IT Support Project | Researching common IT issues and practical troubleshooting |
+
+## Education
+
+**Overton Grange School — Sixth Form**
+
+- BTEC ICT
+- A Level Business
+- BTEC Criminology
+
+## Goals
+
+I'm working towards building a strong technical foundation, developing practical experience and creating projects that demonstrate what I can do.
 
 ---
 
-### 🛠️ Tools
-
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wubbawoo&show_icons=true&theme=radical&hide_title=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wubbawoo&theme=radical" height="165" />
-</p>
+**Learning • Building • Improving**
